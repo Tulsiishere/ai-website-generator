@@ -3,4 +3,5 @@ venv/
 .env
 __pycache__/
 *.pyc
-backend/generated_sites/
+backend/generated_sites/*.iml
+.idea/
